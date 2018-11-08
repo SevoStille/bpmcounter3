@@ -1,7 +1,7 @@
 # bpmcounter3
- * BPM counter
+ * Arduino UNO BPM counter
  * 
- * Small utility to display BPM on a 16x2 I2C LED display 
+ * Small utility to display BPM on a 16x2 I2C LED display with a Arduino
  * Written for DIN Sync devices like the TR-606, with no speed display.  
  * Counts clock pulses/s, so it needs a fast clock (24ppq DIN sync or faster), 
  * if you want to determine BPM from a slow clock, like a click track or drum 
